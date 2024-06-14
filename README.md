@@ -5,7 +5,7 @@
 
 ## Description
 
-CampusMap is a console application designed to assist users in navigating the University of Illinois at Chicago (UIC) campus. The application leverages Dijkstra’s algorithm to determine the shortest weighted path between any two given locations on campus. This project utilizes OpenStreetMap data for accurate navigation and TinyXML for parsing XML files.
+CampusMap is a console application designed to assist users in navigating the University of Illinois at Chicago (UIC) campus. The application leverages Dijkstra’s algorithm to determine the shortest weighted path between any two locations on campus. This project utilizes OpenStreetMap data for accurate navigation and TinyXML for parsing XML files.
 
 ## Features
 
@@ -22,21 +22,31 @@ CampusMap is a console application designed to assist users in navigating the Un
 - Make (for Linux and Mac)
 
 ### Clone the Repository
+```
 git clone https://github.com/yourusername/your-repository-name.git
+```
+
 
 ### Compile the Project
 #### Linux and Mac
+```
 make build
-
+```
 
 #### Windows
+```
 g++ -O2 -std=c++11 -Wall main.cpp dist.cpp osm.cpp tinyxml2.cpp -o program.exe
+```
 
 
 ### Run the Program
 #### Linux and Mac
+```
 make run
+```
 
 #### Windows
+```
 .\program.exe
+```
 
