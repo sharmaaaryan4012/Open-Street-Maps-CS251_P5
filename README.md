@@ -1,4 +1,4 @@
-# Open Street Map - CS 251 (Data Structures)
+# Open Street Map
 
 **Semester:** Fall 2023  
 **Instructor:** Professor Drishika Dey  
