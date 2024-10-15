@@ -24,6 +24,7 @@ CampusMap is a console application designed to assist users in navigating the Un
 ### Clone the Repository
 ```
 git clone https://github.com/sharmaaaryan4012/Open-Street-Maps-CS251_P5.git
+cd Open-Street-Maps-CS251_P5
 ```
 
 
