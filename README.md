@@ -55,18 +55,17 @@ make run
 2. **Navigating UIC open street map:**
     ```
     Enter map filename> 
-    map.osm 
     # of nodes: 18297
     # of footways: 382
     # of buildings: 34
 
     # of vertices: 18297
     # of edges: 3596
-    ```
 
-3. **Enter person 1's building (partial name or abbreviation), or #:**
-4. **Enter person 2's building (partial name or abbreviation):**
+    Enter person 1's building (partial name or abbreviation), or #:
+    Enter person 2's building (partial name or abbreviation):
+    ``` 
+3. Choose from the list of buildings and use the building code (it is case-sensitive).
 
-Choose from the list of buildings and use the building code (it is case sensitive).
 
 
