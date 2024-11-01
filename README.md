@@ -65,7 +65,7 @@ make run
     Enter person 1's building (partial name or abbreviation), or #:
     Enter person 2's building (partial name or abbreviation):
     ``` 
-3. Choose from the list of buildings and use the building code (it is case-sensitive).
+3. Choose from the "List of Buildings.xlsx" file and use the building code (it is case-sensitive).
 
 
 
