@@ -41,13 +41,32 @@ g++ -O2 -std=c++11 -Wall main.cpp dist.cpp osm.cpp tinyxml2.cpp -o program.exe
 
 
 ### Run the Program
-#### Linux and Mac
 ```
 make run
 ```
 
-#### Windows
-```
-.\program.exe
-```
+### Navigating UIC open street map
+
+1. **Enter map filename:**
+    ```
+    select map.osm
+    ```
+
+2. **Navigating UIC open street map:**
+    ```
+    Enter map filename> 
+    map.osm 
+    # of nodes: 18297
+    # of footways: 382
+    # of buildings: 34
+
+    # of vertices: 18297
+    # of edges: 3596
+    ```
+
+3. **Enter person 1's building (partial name or abbreviation), or #:**
+4. **Enter person 2's building (partial name or abbreviation):**
+
+Choose from the list of buildings and use the building code (it is case sensitive).
+
 
